@@ -9,7 +9,7 @@ public class Arithmetic
 	
 	public double sub(double x,double y)
 	{
-		//performing subtraction
+		//performing subtraction using z
 		double z=x-y;
 		return z;
 	}
